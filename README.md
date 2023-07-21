@@ -10,26 +10,7 @@ Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## List of fectures
-+ ### Riddhi 
-  - Riddhi worked on the Login and register pages where she created the userRoutes and authRoutes. 
-  - She fetch the data while user try to login into website and also verify that data. Meanwhile, if user register into website then it will store into database.
-  
-+ ### Jay
-   - Jay created the database for blog and create trips for the users where user can see the number of blogs on the blog page.
-   - He created the trips page where user can get the number of trips in the feed page.
-   - And also created add trip page where a particular user can add thier own trips.
 
-+ ### Mit
-  - Mit worked on the Home page where he is fetching the list of information from the database to the home page.
-  - He also created the recommamed trips page where admin can add the new recommanded trip and user can fing the different categories of trips and that all data is coming from the database.
-  - He is working on the team page where user can serch for a particular team member.
-
-+ ### Heta
-  - Heta worked on the popular buckets page where user can see the list of popular buckets which have been added by the admin.
-  - She has also worked on Create Bucket List page that allows the user to create a new bucket list.
-  - She also created the About Us page where user can find the general information about the website.
-
-## List of Pages 
 1.	Home Page
 > In the home page, the user can see the navigation links in the header for different pages. In the footer, one can find the social media links and contact details. Right after the header, user can see the highlighted video and feeds of the trips, after that, they can see the trending trips, blogs and testimonials of the previous user.
 
